@@ -1,0 +1,39 @@
+body{
+    background-color: #D82C2C   ;
+}
+section .serie{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+.serie .photitre1{
+    background-image: url(content/smTwd.jpg);
+    margin-left: 25px;
+    border-left: 8px solid #D82C2C;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.serie .photitre2{
+    background-image: url(content/smCasaDePapel.jpg);
+    background-size: contain;
+    margin-left: 25px;
+    border-left: 8px solid #D82C2C;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.serie .photitre3{
+    background-image: url(content/smUmbrella.png);
+    margin-left: 25px;
+    border-left: 8px solid #D82C2C;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
